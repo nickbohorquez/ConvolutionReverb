@@ -11,7 +11,7 @@ AudioConvolutionReverbProcessor::~AudioConvolutionReverbProcessor() {}
 
 void AudioConvolutionReverbProcessor::prepareToPlay(double, int)
 {
-    //Aquí reservaremos memoria para la convolución
+    //ReservaDeMemoriaConvolución
 }
 
 void AudioConvolutionReverbProcessor::releaseResources() {}
